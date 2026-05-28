@@ -41,6 +41,7 @@
     }
   ],
   "rewrites": [
+    { "source": "/blog/:slug", "destination": "/blog/:slug.html" },
     { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
     { "source": "/robots.txt",  "destination": "/robots.txt" }
   ]
