@@ -101,6 +101,8 @@ No installation required. Open `index.html` directly in a web browser to use loc
 
 ---
 
-## Source Code
+## Support
 
-View the source code on GitHub: [piedadbrylle490-ux/piclight](https://github.com/piedadbrylle490-ux/piclight)
+Never required. Always appreciated.
+
+[☕ Buy me a coffee](https://ko-fi.com/brahyan)
